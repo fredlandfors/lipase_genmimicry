@@ -1,0 +1,4 @@
+""	result2.priors
+p1	1e-04
+p2	1e-04
+p12	5e-06

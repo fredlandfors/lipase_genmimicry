@@ -1,0 +1,3 @@
+X.
+  error: Maximum variant list is 1000 RS numbers. Your list contains 1581 entries.
+}

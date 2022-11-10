@@ -1,0 +1,7 @@
+""	result.summary
+nsnps	1504
+PP.H0.abf	0
+PP.H1.abf	0.107162895752698
+PP.H2.abf	0
+PP.H3.abf	0.599415358061482
+PP.H4.abf	0.293421746185861

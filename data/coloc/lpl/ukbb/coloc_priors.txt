@@ -1,0 +1,4 @@
+""	result.priors
+p1	1e-04
+p2	1e-04
+p12	1e-05
